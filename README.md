@@ -1,4 +1,4 @@
-## Landing page Mogo
+## Landing page MoGo
 
 ### Описание:
 ---
